@@ -135,6 +135,7 @@ body {
 @media (min-width: 760px) {
   body {
     background: url(./images/bg-desktop.png) no-repeat center bottom fixed;
+    background-size: 100% 50%;
     background-color: hsl(229, 57%, 11%);
   }
   .flex-container {
