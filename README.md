@@ -8,7 +8,7 @@ Users should be able to:
 -View the optimal layout for the page depending on their device's screen size
 
 
-Built with
+## Built with
 
 
 -Semantic HTML5 markup
@@ -21,3 +21,8 @@ Built with
 
 
 -Mobile-first workflow
+
+
+## Live site
+
+See live preview here: https://jonathancklee1.github.io/Data-Storage-UI/
